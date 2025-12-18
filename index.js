@@ -1,6 +1,7 @@
 // Welcome to EditArt Fun!
 // Call setSeeds() to (re)set the random and noise seeds.
 // Call triggerPreview() to capture the preview image (timeout 30s).
+// To deploy, just go to https://www.editart.xyz/fun and copy&paste the content of this file.
 
 let cs;
 
