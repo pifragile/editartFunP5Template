@@ -1,6 +1,7 @@
-// Welcome to EditArt Fun!
 // Call setSeeds() to (re)set the random and noise seeds.
+// Then just use the normal p5js random() and noise() functions.
 // Call triggerPreview() to capture the preview image (timeout 30s).
+// Initialize all global state in setup() as the page does not reload each time the seed changes.
 // To deploy, just go to https://www.editart.xyz/fun and copy&paste the content of this file.
 
 let cs;
